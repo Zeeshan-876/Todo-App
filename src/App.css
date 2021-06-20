@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: cadetblue;
+  box-sizing: border-box;
+}
+
+.todo-form {
+  background-color: burlywood;
+  min-height: 500px;
+  width: 400px;
+  margin: 40px auto;
+  border-radius: 20px;
+}
+ol {
+  background-color: burlywood;
+}
+ol li {
+  background-color: burlywood;
+  color: darkslateblue;
+}
+.mylists {
+  margin: 20px;
+  font-size: 22px;
+}
+input {
+  border: 0px;
+  padding: 0 20px;
+  font-weight: bold;
+  font-size: 25px;
+  width: 250px;
+  height: 50px;
+  background-color: cornflowerblue;
+  border-radius: 10px;
+}
+.add-btn {
+  width: 80px;
+  margin: 10px;
+}
